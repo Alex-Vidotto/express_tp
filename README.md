@@ -4,9 +4,6 @@
 
 ### 1. Middleware global
 
-- **`loggerMiddleware`**  
-  Middleware global personalizado. Registra el metodo, la ruta, el estado y el tiempo de respuesta.
-
 - **`rateLimiterMiddleware`**  
   Middleware de seguridad. Limita la cantidad de peticiones para evitar abusos.
 
